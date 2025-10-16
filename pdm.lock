@@ -5,7 +5,7 @@
 groups = ["default", "dev"]
 strategy = ["inherit_metadata"]
 lock_version = "4.5.0"
-content_hash = "sha256:5f537a10ae631634c277c4e158448d29ea94654a398ce26585d1555a62959ae0"
+content_hash = "sha256:c3d83520102907848deadfa475285a0764b0f9e39551241ff18a63bdd3523982"
 
 [[metadata.targets]]
 requires_python = ">=3.10"
@@ -567,8 +567,8 @@ files = [
 ]
 
 [[package]]
-name = "twikit"
-version = "2.3.3"
+name = "twikitminifix"
+version = "2.3.7"
 requires_python = ">=3.8"
 summary = "Twitter API wrapper for python with **no API key required**."
 groups = ["default"]
@@ -583,8 +583,8 @@ dependencies = [
     "webvtt-py",
 ]
 files = [
-    {file = "twikit-2.3.3-py3-none-any.whl", hash = "sha256:0d745895bb243f84a1bbb8c9c821f165a0f60e20db27dee66fdb77d05af748fd"},
-    {file = "twikit-2.3.3.tar.gz", hash = "sha256:081177a8a1b05f3d67e5622d839bba2a63422c07cea31b906f89df67ae8166da"},
+    {file = "twikitminifix-2.3.7-py3-none-any.whl", hash = "sha256:1bf4ac10e03fd7d2f0a42d6c0f1a8f1adc81a61982ba6e9eca9879be00e2ff94"},
+    {file = "twikitminifix-2.3.7.tar.gz", hash = "sha256:2067aa46db4c11f07a9ac855b7f6ec7607c439dc87210fcaa8693345dd5a329d"},
 ]
 
 [[package]]

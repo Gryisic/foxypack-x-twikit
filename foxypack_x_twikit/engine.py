@@ -4,7 +4,7 @@ import uuid
 from enum import Enum
 from dataclasses import dataclass
 
-from twikit import Client
+from twikitminifix import Client
 from foxypack.entitys.balancers import BaseEntityBalancer
 from foxypack.entitys.pool import EntityPool
 from pydantic import Field
